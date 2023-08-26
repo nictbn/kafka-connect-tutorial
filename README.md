@@ -1,0 +1,1 @@
+# This repo contains the source code and instructions for following the Kafka Connect tutorial presented [here](https://www.udemy.com/course/kafka-connect/)
